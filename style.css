@@ -74,8 +74,15 @@ main {
     margin: 25px 0px;
 }
 
+#buscador:hover {    
+    background: #fff;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, .28);
+    border-color: transparent;
+}
 #buscador input {
     flex-grow: 1;
+    border: none;
+    outline: none;
 }
 
 article {
