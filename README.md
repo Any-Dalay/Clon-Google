@@ -16,4 +16,4 @@ Fue desarrollado con HTML y CSS. La página es responsiva (adaptable a diferente
 * CSS
 
 ---
-Desarrollado con 💖 por [Anadalay](https://www.linkedin.com/in/anadalay-laureani-longino-11bbaa26b/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
+Desarrollado con 💖 por [Anadalay](https://www.linkedin.com/in/anadalay-laureani/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
